@@ -9,5 +9,4 @@
 
 - Fast ✅
 
-#Carck #AGC007
 ------- Developed by AGC007 -------
